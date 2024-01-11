@@ -1,0 +1,14 @@
+C:\shiva projects\oopsCreateObject\bin\Debug\oopsCreateObject.exe.config
+C:\shiva projects\oopsCreateObject\bin\Debug\oopsCreateObject.exe
+C:\shiva projects\oopsCreateObject\bin\Debug\oopsCreateObject.pdb
+C:\shiva projects\oopsCreateObject\obj\Debug\oopsCreateObject.csprojAssemblyReference.cache
+C:\shiva projects\oopsCreateObject\obj\Debug\oopsCreateObject.csproj.CoreCompileInputs.cache
+C:\shiva projects\oopsCreateObject\obj\Debug\oopsCreateObject.exe
+C:\shiva projects\oopsCreateObject\obj\Debug\oopsCreateObject.pdb
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\bin\Debug\oopsCreateObject.exe.config
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\bin\Debug\oopsCreateObject.exe
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\bin\Debug\oopsCreateObject.pdb
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.csproj.AssemblyReference.cache
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.csproj.CoreCompileInputs.cache
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.exe
+E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.pdb
