@@ -12,3 +12,10 @@ E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreat
 E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.csproj.CoreCompileInputs.cache
 E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.exe
 E:\Tech_ART\Training\Shiva_Project_training\oopsCreateObject\obj\Debug\oopsCreateObject.pdb
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\bin\Debug\oopsCreateObject.exe.config
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\bin\Debug\oopsCreateObject.exe
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\bin\Debug\oopsCreateObject.pdb
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\obj\Debug\oopsCreateObject.csproj.AssemblyReference.cache
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\obj\Debug\oopsCreateObject.csproj.CoreCompileInputs.cache
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\obj\Debug\oopsCreateObject.exe
+E:\Tech_ART\NEW_Technologies\DotNetProject\oopsCreateObject\obj\Debug\oopsCreateObject.pdb

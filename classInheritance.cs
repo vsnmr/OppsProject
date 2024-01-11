@@ -21,6 +21,32 @@ namespace oopsCreateObject
         }
     }
 
+    ///<summary>
+    ///Few Online Products Available
+    /// </summary>
 
-    
+    class ElectronicsInheritance {
+        public string Mobiles;
+        public string Desktops;
+        public string Watches;
+        public string earBuds;
+        public string neckBand;
+        public string Mouses;
+        public void ElectronicsProducts()
+        {
+            Console.WriteLine($"\nThe Local Shops  Eectronics products more sells in Mobile: {Mobiles}, Desktop: {Desktops}, Watches: {Watches}");
+        }
+      
+    }
+    class ElectronicCommers : ElectronicsInheritance
+    {
+        
+        public void ECommersPurches()
+        {
+            Console.WriteLine($"\nthe Ecommers more  Purches ietms are {earBuds}, {neckBand} ,{Mouses}");
+        }
+    }
+
+
+
 }

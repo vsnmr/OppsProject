@@ -258,6 +258,22 @@ namespace oopsCreateObject
             idm.InheritanceMethod();
             idm.InheritanceMethod2();
 
+
+            ///<summary>
+            ///Inheritance with class members calling
+            /// </summary>
+
+            ElectronicCommers ei = new ElectronicCommers();
+            ei.Desktops = "Lenovo Desktops";
+            ei.Mobiles = "MotorolaMobiels";
+            ei.Watches = "Titan";
+            ei.earBuds = "realme Ear Buds";
+            ei.Mouses = "Del Mouses";
+            ei.neckBand = "OnePlus";
+            ei.ElectronicsProducts();
+           
+            ei.ECommersPurches();
+
             Console.ReadLine();
            
 
