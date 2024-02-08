@@ -46,6 +46,7 @@
     <Compile Include="AnimalAbstract.cs" />
     <Compile Include="ClassConstructor.cs" />
     <Compile Include="classInheritance.cs" />
+    <Compile Include="ClassMethodOverriding.cs" />
     <Compile Include="MethodoverRidingBase.cs" />
     <Compile Include="MultipleInheritanceClassAdd.cs" />
     <Compile Include="PolymorphismClass.cs" />
