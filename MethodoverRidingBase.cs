@@ -15,7 +15,7 @@ namespace oopsCreateObject
     }
     class MethodDerived:MethodoverRidingBase
     {
-        public void Greetings()
+        public  void Greetings()
         {
             Console.WriteLine("derived class is called");
         }

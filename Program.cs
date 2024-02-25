@@ -187,6 +187,7 @@ namespace oopsCreateObject
             im.Sub(45, 34);
             Console.WriteLine($"the values of addtion values are {im.r} and subtractvalues are {im.r2}");
 
+            im.Sum();
 
 
             //polymorphism concelpt implements values passing
@@ -277,13 +278,57 @@ namespace oopsCreateObject
             DerivedMethodoverriding cmo = new DerivedMethodoverriding();
             cmo.Flower();
 
+
+
+            //UserMainCode usercode = new UserMainCode();
+            //int input1 = 5;
+            //int[] input2 = { 3, 5, 1, 7, 2 };
+            //int result = usercode.sourCandy(input1,input2);
+            //Console.WriteLine("Result is "+result);
+
+            DerABc ab = new DerABc();
+            Console.WriteLine("The sum is "+ab.Sum(12,12));
+
+
+            //MoneyConversion
+            UserMainCode1 userCode = new UserMainCode1();
+
+            string input = "120 D";
+            int result = userCode.MoneyConversion(input);
+            Console.WriteLine("Result: " + result);
+
+            //MinimumCost input
+
+            UserMainCode3 userCode1 = new UserMainCode3();
+            int input1 = 7;
+            int input2 = 6;
+            int input3 = 5;
+            int[,] input4 = { { 0, 1 }, { 1, 2 }, { 3, 4 }, { 2, 4 }, { 2, 6 }, { 5, 2 } };
+
+            int output = userCode1.MinimumCost(input1, input2, input3, input4);
+
+            Console.WriteLine("Expected Output: 15");
+            Console.WriteLine("Actual Output: " + output);
+
+            ///<summary>
+            ///implementation of interfacces and abstract class
+            /// </summary>
+            /// 
+            ImplementDerived id = new ImplementDerived();
+            id.Draw();
+            id.DrawMethod();
+
+
+
             Console.ReadLine();
-           
+
+        
 
 
-            
 
-            
+
+
+
 
         }
     }
